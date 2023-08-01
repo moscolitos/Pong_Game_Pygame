@@ -1,4 +1,4 @@
-# Pong Game with Pygame
+# Pong Game with Pygame using OOP
 This project is an implementation of the classic Pong game using Python and Pygame. It features a simple AI that moves the paddle in response to the ball's position, and a difficulty selector in the main menu.
 
 ## Getting Started
