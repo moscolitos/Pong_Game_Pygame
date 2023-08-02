@@ -2,10 +2,10 @@
 This project is an implementation of the classic Pong game using Python and Pygame. It features a simple AI that moves the paddle in response to the ball's position, and a difficulty selector in the main menu.
 
 
-https://github.com/moscolitos/Pong_Game_Pygame/assets/51311462/74f72e1d-33cd-46a7-96a7-0a5c5deed67e
 
 
 
+[pong_game_architecture (1).pdf](https://github.com/moscolitos/Pong_Game_Pygame/files/12242023/pong_game_architecture.1.pdf)
 
 ## Getting Started
 
@@ -48,8 +48,12 @@ The game code is divided into three classes: Paddle, Ball, and PongGame.
 
 - PongGame: Represents the overall game. It has methods for initializing the game state, running the game loop, resetting the game, and showing the main menu.
 
+
+https://github.com/moscolitos/Pong_Game_Pygame/assets/51311462/74f72e1d-33cd-46a7-96a7-0a5c5deed67e
+
 ## Authors
 Moscolitos
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
